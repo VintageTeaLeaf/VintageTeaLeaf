@@ -17,6 +17,7 @@ Computer Science graduate with experience in cybersecurity analysis, database de
 - Git & GitHub
 - Figma
 - Power BI
+- Excel
 
 ## Current Focus
 Currently expanding my skills in:
