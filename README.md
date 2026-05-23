@@ -1,4 +1,4 @@
-# Hi, I’m Katie Cheng 👋
+# Hi, I’m Katie Cheng
 
 Computer Science graduate with experience in cybersecurity analysis, database development, and front-end web design. I enjoy building user-focused digital experiences and exploring the intersection of technology, design, and data-driven solutions.
 
