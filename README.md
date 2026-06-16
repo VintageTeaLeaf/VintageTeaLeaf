@@ -11,6 +11,7 @@ Computer Science graduate with experience in cybersecurity analysis, database de
 
 ## Technologies & Tools
 - Python
+- Tableau
 - JavaScript / TypeScript
 - SQL
 - HTML / CSS / React
