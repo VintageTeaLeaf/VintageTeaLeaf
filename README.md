@@ -1,43 +1,65 @@
-# Hi, I’m Katie Cheng
+# Hi, I'm Katie Cheng :) 
 
-Computer Science graduate with experience in cybersecurity analysis, database development, and front-end web design. I enjoy building user-focused digital experiences and exploring the intersection of technology, design, and data-driven solutions.
+Recent Computer Science graduate from the University of Georgia with experience in data analytics, database development, reporting, and cybersecurity analysis.
 
-## Technical Interests
-- Front-End Development
-- UX/UI Design
-- Data & Analytics
-- Cybersecurity
-- Creative Technology
+I enjoy transforming raw data into actionable insights through Python, SQL, and data visualization tools. Currently building a portfolio of analytics projects focused on business intelligence, reporting, and data-driven decision making.
 
-## Technologies & Tools
-- Python
-- Tableau
-- JavaScript / TypeScript
-- SQL
-- HTML / CSS / React
-- Git & GitHub
-- Figma
-- Power BI
-- Excel
+## Technical Skills
+
+**Languages**
+
+* Python
+* SQL
+* JavaScript / TypeScript
+* HTML / CSS
+
+**Data & Analytics**
+
+* Tableau
+* Power BI
+* Pandas
+* SQLite
+* Excel
+
+**Tools**
+
+* Git & GitHub
+* VS Code
+* Figma
+
+## Featured Projects
+
+### College Major ROI Analysis
+
+Analyzed 10,000+ College Scorecard records across 138 U.S. college majors to evaluate:
+
+* Student debt
+* 5-year earnings
+* Earnings growth
+* Return on investment (ROI)
+
+Built using Python, SQL, SQLite, Tableau, and GitHub.
 
 ## Current Focus
-Currently expanding my skills in:
-- Data analytics & visualization
-- Responsive web development
-- User experience design
-- Professional portfolio projects
 
-## Collaboration
-Open to collaborating on:
-- Front-end projects
-- Creative technology applications
-- UI/UX focused work
-- Data-driven web applications
+* Data Analytics
+* Data Visualization
+* SQL & Database Development
+* Business Intelligence
+* Building Portfolio Projects
 
-## Contact
-📫 Email: katiecheng2003@gmail.com  
+## Open To
+
+* Data Analyst roles
+* Business Analyst roles
+* Reporting Analyst roles
+* Operations Analyst roles
+
+## Connect With Me
+
+📫 Email: [katiecheng2003@gmail.com](mailto:katiecheng2003@gmail.com)
+
 🔗 LinkedIn: linkedin.com/in/katie-cheng-1b2972255
 
----
+🐱 Fun fact: My cat Cheese regularly supervises my projects.
 
-Fun fact: I have a very handsome cat named Cheese 🧀
